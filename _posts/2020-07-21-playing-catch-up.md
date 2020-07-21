@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## We're going to be playing catch up for a bit here.
 
