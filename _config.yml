@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title: Summer 2020 Cookie Bracket
+email: james.ashworth@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is a documentary website of a cookie challenge some coworkers dreamed up. With Heather as
+  our judge and a slack channel full of commentators we set off on a journey to compare cookies
+  and cookie like things.
+baseurl: "/Summer2020CookieBracket/" # the subpath of your site, e.g. /blog
+url: "tonyashworth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Tony_Ashworth
+github_username:  TonyAshworth
+repository:           https://github.com/TonyAshworth/Summer2020CookieBracket
+
+author:
+  name:           'Tony Ashworth'
+  url:            https://twitter.com/tony_ashworth
+
+# Pagination Settings
+paginate_path: "page:num"
+paginate:      5
+
+# Custom vars
+version:          1.0.0
