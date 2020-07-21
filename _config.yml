@@ -1,10 +1,4 @@
-# Dependencies
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-
-# Setup
+# Base Site Info
 title: Summer 2020 Cookie Bracket
 email: james.ashworth@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -24,6 +18,9 @@ author:
 # Pagination Settings
 paginate_path: "page:num"
 paginate:      5
+
+# Permalinks
+permalink:        pretty
 
 # Custom vars
 version:          1.0.0
