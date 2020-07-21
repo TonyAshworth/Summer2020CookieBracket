@@ -7,4 +7,4 @@ published: true
 Heyo I can I code still? Answer is no.
 
 
-![image_test.png](/media/image_test.png)
+![image_test.png]({{site.baseurl}}/media/image_test.png)
