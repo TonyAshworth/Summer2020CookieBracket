@@ -1,4 +1,5 @@
 ---
+layout: blog
 published: true
 ---
 ## A New Post
@@ -6,4 +7,4 @@ published: true
 Heyo I can I code still? Answer is no.
 
 
-![image_test.png]({{site.baseurl}}/_posts/image_test.png)
+![image_test.png]({{site.baseurl}}/media/image_test.png)
