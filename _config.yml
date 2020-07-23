@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   our judge and a slack channel full of commentators we set off on a journey to compare cookies
   and cookie like things.
 baseurl: "/Summer2020CookieBracket/" # the subpath of your site, e.g. /blog
-url: "tonyashworth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tonyashworth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Tony_Ashworth
 github_username:  TonyAshworth
 repository:           https://github.com/TonyAshworth/Summer2020CookieBracket
